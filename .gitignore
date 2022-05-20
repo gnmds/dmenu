@@ -18,3 +18,5 @@ config.def.h
 !LICENSE
 !Makefile
 !README
+!dmenu_path
+!dmenu_run
